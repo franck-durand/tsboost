@@ -1,6 +1,7 @@
 TSBoost, Time Series Boosting
 =============================
 
+|License| |Python Versions|
 
 Context
 -------
