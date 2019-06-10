@@ -1,7 +1,8 @@
 TSBoost, Time Series Boosting
 =============================
 
-|License| |Python Versions|
+.. image:: https://img.shields.io/pypi/pyversions/tsboost.svg
+        :target: https://pypi.python.org/pypi/tsboost
 
 Context
 -------
