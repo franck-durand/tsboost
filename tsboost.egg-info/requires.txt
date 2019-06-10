@@ -1,0 +1,4 @@
+pandas>=0.22.0
+numpy
+xgboost>=0.80
+lightgbm>=2.2.1
