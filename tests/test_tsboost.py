@@ -31,4 +31,3 @@ class TestTsboost(unittest.TestCase):
         results = model.fit_predict(data, **data_config)
 
         self.assertTrue(400 <= results.iloc[0]["forecast"] <= 500)
-        self.assertTrue(400 <= results.iloc[1]["forecast"] <= 500)
