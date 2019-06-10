@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 from tsboost import TSRegressor
 
-#h
 
 class Stacker(object):
 
