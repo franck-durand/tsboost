@@ -25,9 +25,8 @@ For **Windows** users, `VC runtime <https://support.microsoft.com/en-us/help/297
 
 For **Linux** users, **glibc** >= 2.14 is required
 
-    sudo apt-get install build-essential      # Ubuntu/Debian
-
-    sudo yum groupinstall 'Development Tools' # CentOS/RHEL
+    sudo apt-get install build-essential           # Ubuntu/Debian
+    sudo yum groupinstall 'Development Tools'      # CentOS/RHEL
 
 For **macOS** users, install OpenMP librairy
 
