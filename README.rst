@@ -45,7 +45,7 @@ After installing the compiler, install from `PyPI <https://pypi.org/project/tsbo
 Quick Start
 -----------
 
-You can get started with a jupyter notebook tutorial : `TSBoot quick start <https://github.com/franck-durand/tsboost/blob/master/jupyter/tsboost_quick_start.ipynb>`_
+You can get started with a jupyter notebook tutorial : `TSBoot quick start <https://nbviewer.jupyter.org/github/franck-durand/tsboost/blob/master/jupyter/tsboost_quick_start.ipynb>`_
 
 
 
